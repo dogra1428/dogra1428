@@ -1,22 +1,4 @@
-AGRG: Awesome Github Readme Generator
 
-Awesome Github Readme Generator
-Sign In
-
-Awesome Github Profile README.md Generator
-
-Star This Repository
-Fork This Repository
-
-Back To Edit
-
-Copy Markdown
-
-Download Markdown
-
-Download Backup
-
-Preview Markdown
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm MAYANK DOGRA</h1>
 <h3 align="center">Welcome to my digital playground! I'm a student developer who's obsessed with turning messy data into beautiful, functional web experiences. If it involves **React** components or **Python** notebooks, I'm probably caffeinated and working on it right now! ☕💻</h3>
