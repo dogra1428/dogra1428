@@ -98,4 +98,3 @@ I build systems that are beautiful yet effective and algorithms that are as smar
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
